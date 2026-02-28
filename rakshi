@@ -1,0 +1,20 @@
+
+import math 
+print(math.sqrt(81))
+
+print(math.factorial(5))
+
+print(math.pi*2)
+print(math.sqrt(9))
+print("this is math operations")
+
+import random
+print(random.randint(1,10))
+
+names=["manju","rakshi","abhi","bhagya"]
+import random  
+print(random.choice(names))
+
+numbers=[5,7,3,4,9,8,4,5]
+import random
+print(random.choice(numbers))
